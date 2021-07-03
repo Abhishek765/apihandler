@@ -1,7 +1,7 @@
-import { EditorState, basicSetup } from "@codemirror/basic-setup";
-import { defaultTabBinding } from "@codemirror/commands";
-import { json } from "@codemirror/lang-json";
-import { EditorView, keymap } from "@codemirror/view";
+import { EditorState, basicSetup } from "./_snowpack/pkg/@codemirror/basic-setup.js";
+import { defaultTabBinding } from "./_snowpack/pkg/@codemirror/commands.js";
+import { json } from "./_snowpack/pkg/@codemirror/lang-json.js";
+import { EditorView, keymap } from "./_snowpack/pkg/@codemirror/view.js";
 
 export default function setupEditor() {
 

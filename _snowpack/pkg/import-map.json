@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@codemirror/basic-setup": "./@codemirror/basic-setup.js",
+    "@codemirror/commands": "./@codemirror/commands.js",
+    "@codemirror/lang-json": "./@codemirror/lang-json.js",
+    "@codemirror/view": "./@codemirror/view.js",
+    "axios": "./axios.js",
+    "bootstrap": "./bootstrap.js",
+    "bootstrap/dist/css/bootstrap.min.css": "./bootstrap/dist/css/bootstrap.min.css",
+    "pretty-bytes": "./pretty-bytes.js"
+  }
+}
