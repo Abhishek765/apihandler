@@ -6,6 +6,7 @@
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
+    "preinstall": "npm i",
     "deploy": "gh-pages -d build"
   },
   "keywords": [],
