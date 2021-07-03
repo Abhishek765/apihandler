@@ -1,6 +1,6 @@
-import './_snowpack/pkg/bootstrap.js';
+import './_snowpack/pkg/bootstrap';
 import './_snowpack/pkg/bootstrap/dist/css/bootstrap.min.css.proxy.js';
-import axios from './_snowpack/pkg/axios.js';
+import axios from './_snowpack/pkg/axios';
 import prettyBytes from './_snowpack/pkg/pretty-bytes.js';
 import setupEditors from './setupEditor.js';
 
